@@ -6,6 +6,7 @@ TagManager:
   tags:
   - CinemachineTarget
   - Senjata
+  - Spawn
   layers:
   - Default
   - TransparentFX

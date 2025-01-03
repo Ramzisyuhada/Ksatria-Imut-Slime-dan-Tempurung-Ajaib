@@ -74,6 +74,9 @@ public class PlayerController : MonoBehaviour
        // SetKondisi();
     }
 
+
+    
+
     private void SetKondisi(Kondisi input = Kondisi.Idle) { 
     
         kondisi = input;
